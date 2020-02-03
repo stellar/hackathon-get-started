@@ -12,7 +12,7 @@ All the resources you'll need to begin your Stellar project.
 
 [**Stellar Overview Course**](https://www.lumenauts.com/courses/stellar-overview-course) - Lumenauts.com has put together a 30 minute video course covering the *basics* of many Stellar related topics. The course includes info about the network, the ledger, assets, anchors, the decentralized exchange, and more.
 
-## Projects Built on Stellar
+## Projects Building on Stellar
 
 If you need some inspiration, here's a handful of unique projects being built on Stellar. 
 
