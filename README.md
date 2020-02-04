@@ -42,6 +42,8 @@ All the resources you'll need to begin your Stellar project.
 
 [**JavaScript Stellar SDK**](https://github.com/stellar/js-stellar-sdk) - Here's the Github repo for the JS Stellar SDK. It contains some documentation and reference examples that should help you get started. 
 
+[**Create Stellar Token - JS**](https://github.com/msfeldstein/create-stellar-token) - A script that allows you to quickly create a Stellar token on testnet. 
+
 ## Projects Building on Stellar
 
 If you need some inspiration, here's a handful of unique projects being built on Stellar. 
