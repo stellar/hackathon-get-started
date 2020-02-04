@@ -15,6 +15,14 @@ All the resources you'll need to begin your Stellar project.
 
 [**Stellar Overview Course**](https://www.lumenauts.com/courses/stellar-overview-course) - Lumenauts.com has put together a 30 minute video course covering the *basics* of many Stellar related topics. The course includes info about the network, the ledger, assets, anchors, the decentralized exchange, and more.
 
+## Developer Resources 
+
+[**Stellar Developer Portal**](https://www.stellar.org/developers/) - Quickest way to find documentation, Stellar SDKs, and other relevant software. 
+
+[**Horizon Reference Overview**](https://www.stellar.org/developers/reference/) - You'll be using the Horizon API a lot over the next 24 hours. Here's an overview of Horizon endpoints and how to use them. 
+
+[**JavaScript Stellar SDK**](https://github.com/stellar/js-stellar-sdk) - Here's the Github repo for the JS Stellar SDK. It contains some documentation and reference examples that should help you get started. 
+
 ## Projects Building on Stellar
 
 If you need some inspiration, here's a handful of unique projects being built on Stellar. 
