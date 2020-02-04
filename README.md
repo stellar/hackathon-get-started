@@ -7,7 +7,7 @@ All the resources you'll need to begin your Stellar project.
 
 ### Prompt + Prizes
 
-Best use of the Stellar network. *Must be a use case outside of a basic wallet.* 
+**Best use of the Stellar network.** *Must be a use case outside of a basic wallet.* 
 
 🥇 1st Place
 - $X in lumens (per team member) 
