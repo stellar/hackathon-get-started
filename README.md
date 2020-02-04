@@ -1,5 +1,8 @@
 # Build on Stellar @ HackNYU 2020
 
+<div align="center"><img width="75%" src="hacknyu.png"></div>
+<br>
+
 All the resources you'll need to begin your Stellar project.
 
 ## Basic Explainers
