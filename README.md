@@ -3,7 +3,7 @@
 
 # Build on Stellar @ HackNYU 2020
 
-All the resources you'll need to begin your Stellar project.
+All the resources you'll need to begin your [Stellar](https://www.stellar.org/) project.
 
 ### Prompt + Prizes
 
