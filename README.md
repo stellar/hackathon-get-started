@@ -44,7 +44,7 @@ All the resources you'll need to begin your Stellar project.
 
 [**Create Stellar Token (JS)**](https://github.com/msfeldstein/create-stellar-token) - A script that allows you to quickly create a Stellar token on testnet. 
 
-## Projects Building on Stellar
+## Need inspiration?
 
 If you need some inspiration, here's a handful of unique projects being built on Stellar. 
 
