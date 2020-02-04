@@ -38,6 +38,8 @@ All the resources you'll need to begin your Stellar project.
 
 [**Horizon Reference Overview**](https://www.stellar.org/developers/reference/) - You'll be using the Horizon API a lot over the next 24 hours. Here's an overview of Horizon endpoints and how to use them. 
 
+[**Stellar Testnet Documentation**](https://www.stellar.org/developers/guides/concepts/test-net.html) - To avoid testing with real money, we of course recommend that you use the Stellar testnet. This guide will explain what the testnet is and some best practices. 
+
 [**JavaScript Stellar SDK**](https://github.com/stellar/js-stellar-sdk) - Here's the Github repo for the JS Stellar SDK. It contains some documentation and reference examples that should help you get started. 
 
 ## Projects Building on Stellar
