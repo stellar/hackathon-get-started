@@ -5,6 +5,23 @@
 
 All the resources you'll need to begin your Stellar project.
 
+### Prompt + Prizes
+
+Best use of the Stellar network. *Must be a use case outside of a basic wallet.* 
+
+🥇 1st Place
+- $X in lumens (per team member) 
+- Stellar Meridian conference tickets + some travel costs 
+- Stellar swag bag 
+
+🥈 2nd Place 
+- $X in lumens (per team member) 
+- Stellar Meridian conference tickets 
+- Stellar swag bag 
+
+🥉 3rd Place 
+- Stellar swag bag
+
 ## Basic Explainers
 
 [**Intro to Stellar**](https://beta.stellar.org/learn/intro-to-stellar) - Need a refresher on what Stellar is and what it's for? Check out this quick explainer.
