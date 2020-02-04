@@ -48,7 +48,7 @@ All the resources you'll need to begin your Stellar project.
 
 If you need some inspiration, here's a handful of unique projects being built on Stellar. 
 
-*Just curating a list for now - need to refine and add explainers.* 
+*Just curating a list for now - need to refine to ~5 and add explainers.* 
 
 - [SatoshiPay](https://satoshipay.io/) 
 - [Paysapp](https://galactictalk.org/d/2208-paysapp-stellar-payments-in-whatsapp) 
