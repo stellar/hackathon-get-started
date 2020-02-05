@@ -22,6 +22,10 @@ All the resources you'll need to begin your [Stellar](https://www.stellar.org/) 
 🥉 3rd Place 
 - Stellar swag bag
 
+## Get Started Kit
+
+[insert Tyler's tools here]
+
 ## Basic Explainers
 
 [**Intro to Stellar**](https://beta.stellar.org/learn/intro-to-stellar) - Need a refresher on what Stellar is and what it's for? Check out this quick explainer.
