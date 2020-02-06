@@ -60,3 +60,4 @@ If you need some inspiration, here's a handful of unique projects being built on
 - [StellarPay](https://stellarpay.io/) 
 - [StellarAuth](https://stellarauth.com/) 
 - [Nodle](https://nodle.io/) 
+- [Money Clip](https://www.moneyclip.io/) 
