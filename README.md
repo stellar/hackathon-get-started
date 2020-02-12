@@ -24,7 +24,7 @@ All the resources you'll need to begin your [Stellar](https://www.stellar.org/) 
 
 ## Get Started Kit
 
-[Stellar App Boilerplate](https://github.com/tyvdh/hack-stellar)
+[**Stellar App Boilerplate**](https://github.com/tyvdh/hack-stellar)
 
 ## Basic Explainers
 
