@@ -10,13 +10,13 @@ All the resources you'll need to begin your [Stellar](https://www.stellar.org/) 
 **Best use of the Stellar network.** *Must be a use case outside of a basic wallet.*
 
 🥇 1st Place - *4 member max*
-- 2,500 Stellar lumens per team member 
-- 1 Ledger Nano S per team member
+- 2,500 Stellar [lumens](https://www.stellar.org/lumens) per team member 
+- 1 [Ledger Nano S](https://shop.ledger.com/products/ledger-nano-s) per team member
 - Stellar swag bag
 
 🥈 2nd Place - *4 member max*
-- 1,500 Stellar lumens per team member
-- 1 Ledger Nano S per team member
+- 1,500 Stellar [lumens](https://www.stellar.org/lumens) per team member
+- 1 [Ledger Nano S](https://shop.ledger.com/products/ledger-nano-s) per team member
 - Stellar swag bag
 
 🥉 3rd Place - *4 member max*
@@ -31,11 +31,11 @@ All the resources you'll need to begin your [Stellar](https://www.stellar.org/) 
 
 ## Basic Explainers
 
-[**Intro to Stellar**](https://beta.stellar.org/learn/intro-to-stellar) - Need a refresher on what Stellar is and what it's for? Check out this quick explainer.
+[**Intro to Stellar**](https://stellar.org/learn/intro-to-stellar) - Need a refresher on what Stellar is and what it's for? Check out this quick explainer.
 
-[**The Power of Stellar**](https://beta.stellar.org/learn/intro-to-stellar) - Here we explain a few powerful unique-to-Stellar financial features—asset issuance, the network’s distributed order books, and the path-payments system—that are great for any fintech project.
+[**The Power of Stellar**](https://stellar.org/learn/intro-to-stellar) - Here we explain a few powerful unique-to-Stellar financial features—asset issuance, the network’s distributed order books, and the path-payments system—that are great for any fintech project.
 
-[**Stellar Lumens**](https://beta.stellar.org/lumens) - You'll no doubt discover lumens while building on Stellar and you might even win some at the end of the weekend. This should help you wrap your head around what they are.
+[**Stellar Lumens**](https://stellar.org/lumens) - You'll no doubt discover lumens while building on Stellar and you might even win some at the end of the weekend. This should help you wrap your head around what they are.
 
 [**Stellar Overview Course**](https://www.lumenauts.com/courses/stellar-overview-course) - Lumenauts.com has put together a 30 minute video course covering the *basics* of many Stellar related topics. The course includes info about the network, the ledger, assets, anchors, the decentralized exchange, and more.
 
