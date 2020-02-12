@@ -9,18 +9,21 @@ All the resources you'll need to begin your [Stellar](https://www.stellar.org/) 
 
 **Best use of the Stellar network.** *Must be a use case outside of a basic wallet.*
 
-🥇 1st Place
-- $X in lumens (per team member)
-- Stellar Meridian conference tickets + some travel costs
+🥇 1st Place - *4 member max*
+- 2,500 Stellar lumens per team member 
+- 1 Ledger Nano S per team member
 - Stellar swag bag
 
-🥈 2nd Place
-- $X in lumens (per team member)
-- Stellar Meridian conference tickets
+🥈 2nd Place - *4 member max*
+- 1,500 Stellar lumens per team member
+- 1 Ledger Nano S per team member
 - Stellar swag bag
 
-🥉 3rd Place
+🥉 3rd Place - *4 member max*
 - Stellar swag bag
+
+🏆 Bonus
+- Participate in the Stellar Community Fund
 
 ## Get Started Kit
 
