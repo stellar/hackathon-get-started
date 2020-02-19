@@ -55,12 +55,7 @@ All the resources you'll need to begin your [Stellar](https://www.stellar.org/) 
 
 If you need some inspiration, here's a handful of unique projects being built on Stellar.
 
-*Just curating a list for now - need to refine to ~5 and add explainers.*
-
-- [SatoshiPay](https://satoshipay.io/)
-- [Paysapp](https://galactictalk.org/d/2208-paysapp-stellar-payments-in-whatsapp)
-- [Ilmatic](https://ilmatic.com/)
-- [StellarPay](https://stellarpay.io/)
-- [StellarAuth](https://stellarauth.com/)
-- [Nodle](https://nodle.io/)
-- [Money Clip](https://www.moneyclip.io/)
+- [SatoshiPay](https://satoshipay.io/) - Satoshipay uses Stellar as the base layer for their micropayment platform. This allows their customers to implement things like a frictionless paywall, a hassle-free donation process, or a powerful adblocker detection tool. 
+- [StellarPay](https://stellarpay.io/) - StellarPay enables Shopify stores to accept Stellar payments across multiple currencies including lumens, USD, EUR, and more. 
+- [StellarAuth](https://stellarauth.com/) - StellarAuth increases user security and enables key management across applications and user actions using Stellar's powerful and flexible suite of tools. 
+- [Money Clip](https://www.moneyclip.io/) - MoneyClip stores Canadian Dollars inside your phone. You can split bills, buy & sell online, and easily pay friends and family using digital cash. It’s quick, secure, and easy to use.
