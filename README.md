@@ -23,7 +23,7 @@ All the resources you'll need to begin your [Stellar](https://www.stellar.org/) 
 - Stellar swag bag
 
 🏆 Bonus
-- Participate in the Stellar Community Fund
+- Participate in the Stellar Community Fund. You can find the guidelines and dates [here](https://galactictalk.org/d/2294-stellar-community-fund-season-2-is-open). 
 
 ## Get Started Kit
 
