@@ -7,6 +7,8 @@ All the resources you'll need to begin your [Stellar](https://www.stellar.org/) 
 
 ### Prompt + Prizes
 
+For HackNYU: March 6-8, 2020. 
+
 **Best use of the Stellar network.** *Must be a use case outside of a basic wallet.*
 
 🥇 1st Place - *4 member max*
