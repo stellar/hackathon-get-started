@@ -43,7 +43,7 @@ For HackNYU: March 6-8, 2020.
 
 ## Developer Resources
 
-[**Stellar Developer Portal**](https://www.stellar.org/developers/) - Quickest way to find documentation, Stellar SDKs, and other relevant software.
+[**Stellar Developer Portal**](https://www.stellar.org/developers/) - Quickest way to find documentation and other relevant resources.
 
 [**Horizon Reference Overview**](https://www.stellar.org/developers/reference/) - You'll be using the Horizon API a lot over the next 24 hours. Here's an overview of Horizon endpoints and how to use them.
 
@@ -52,6 +52,8 @@ For HackNYU: March 6-8, 2020.
 [**JavaScript Stellar SDK**](https://github.com/stellar/js-stellar-sdk) - Here's the Github repo for the JS Stellar SDK. It contains some documentation and reference examples that should help you get started.
 
 [**Create Stellar Token (JS)**](https://github.com/msfeldstein/create-stellar-token) - A script that allows you to quickly create a Stellar token on testnet.
+
+Stellar SDK's are also available in the following languages: [Go](https://github.com/stellar/go/releases/tag/horizonclient-v2.1.0), [Java](https://github.com/stellar/java-stellar-sdk/releases/tag/0.14.0), [Python](https://github.com/StellarCN/py-stellar-base/releases), [Qt](https://github.com/bnogalm/StellarQtSDK/releases), [.NET](https://github.com/elucidsoft/dotnet-stellar-sdk/releases), [iOS](https://github.com/Soneso/stellar-ios-mac-sdk/releases), [Scala](https://github.com/Synesso/scala-stellar-sdk/releases/tag/v0.11.0), and [Java](https://github.com/stellar/java-stellar-sdk/releases/tag/0.14.0).
 
 ## Need inspiration?
 
