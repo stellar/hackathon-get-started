@@ -46,12 +46,17 @@ For HackNYU: March 6-8, 2020.
 [**Stellar Developer Portal**](https://www.stellar.org/developers/) - Quickest way to find documentation and other relevant resources.
 
 [**Horizon Reference Overview**](https://www.stellar.org/developers/reference/) - You'll be using the Horizon API a lot over the next 24 hours. Here's an overview of Horizon endpoints and how to use them.
+  - Tip: You'll be using [https://horizon-testnet.stellar.org/](https://horizon-testnet.stellar.org/) 
 
 [**Stellar Testnet Documentation**](https://www.stellar.org/developers/guides/concepts/test-net.html) - To avoid testing with real money, we of course recommend that you use the Stellar testnet. This guide will explain what the testnet is and some best practices.
+
+[**Stellar Laboratory**](https://www.stellar.org/laboratory/) - The Stellar Laboratory is a set of tools that enables people to try out and learn about the Stellar network. The laboratory can build transactions, sign them, and submit them to the network. It can also make requests to any of the Horizon endpoints.
 
 [**JavaScript Stellar SDK**](https://github.com/stellar/js-stellar-sdk) - Here's the Github repo for the JS Stellar SDK. It contains some documentation and reference examples that should help you get started.
 
 [**Create Stellar Token (JS)**](https://github.com/msfeldstein/create-stellar-token) - A script that allows you to quickly create a Stellar token on testnet.
+
+[**Stellar Expert**](https://stellar.expert/explorer/public) - Block explorer and analytics platform for Stellar Network. Find information about accounts you create, transaction you submit to the network, and more. 
 
 Stellar SDK's are also available in the following languages: [Go](https://github.com/stellar/go/releases/tag/horizonclient-v2.1.0), [Java](https://github.com/stellar/java-stellar-sdk/releases/tag/0.14.0), [Python](https://github.com/StellarCN/py-stellar-base/releases), [Qt](https://github.com/bnogalm/StellarQtSDK/releases), [.NET](https://github.com/elucidsoft/dotnet-stellar-sdk/releases), [iOS](https://github.com/Soneso/stellar-ios-mac-sdk/releases), [Scala](https://github.com/Synesso/scala-stellar-sdk/releases/tag/v0.11.0), and [Java](https://github.com/stellar/java-stellar-sdk/releases/tag/0.14.0).
 
