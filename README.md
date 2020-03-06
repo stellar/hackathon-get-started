@@ -63,3 +63,5 @@ If you need some inspiration, here's a handful of unique projects being built on
 - [StellarPay](https://stellarpay.io/) - StellarPay enables Shopify stores to accept Stellar payments across multiple currencies including lumens, USD, EUR, and more. 
 - [StellarAuth](https://stellarauth.com/) - StellarAuth increases user security and enables key management across applications and user actions using Stellar's powerful and flexible suite of tools. 
 - [MoneyClip](https://www.moneyclip.io/) - MoneyClip stores Canadian Dollars inside your phone. You can split bills, buy & sell online, and easily pay friends and family using digital cash. It’s quick, secure, and easy to use.
+
+You can also check out [Awesome Stellar](https://github.com/koltenb/awesome-stellar): a curated list of Stellar applications, blog posts, educational resources, tools, and more.
