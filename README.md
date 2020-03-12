@@ -1,31 +1,9 @@
 <div align="center"><img width="75%" src="hacknyu.png"></div>
 <br>
 
-# Build on Stellar @ HackNYU 2020
+# Build on Stellar 
 
-All the resources you'll need to begin your [Stellar](https://www.stellar.org/) project.
-
-### Prompt + Prizes
-
-For HackNYU: March 6-8, 2020. 
-
-**Best use of the Stellar network.** *Must be a use case outside of a basic wallet.*
-
-🥇 1st Place - *4 member max*
-- 2,500 Stellar [lumens](https://www.stellar.org/lumens) per team member 
-- 1 [Ledger Nano S](https://shop.ledger.com/products/ledger-nano-s) per team member
-- Stellar swag bag
-
-🥈 2nd Place - *4 member max*
-- 1,500 Stellar [lumens](https://www.stellar.org/lumens) per team member
-- 1 [Ledger Nano S](https://shop.ledger.com/products/ledger-nano-s) per team member
-- Stellar swag bag
-
-🥉 3rd Place - *4 member max*
-- Stellar swag bag
-
-🏆 Bonus
-- Participate in the Stellar Community Fund. You can find the guidelines and dates [here](https://galactictalk.org/d/2294-stellar-community-fund-season-2-is-open). 
+Find the winners of the HackNYU 2020 Stellar track [here](https://hacknyu-2020.devpost.com/submissions/search?utf8=%E2%9C%93&prize_filter%5Bprizes%5D%5B%5D=35771). 
 
 ## Get Started Kit
 
