@@ -1,6 +1,3 @@
-<div align="center"><img width="75%" src="hacknyu.png"></div>
-<br>
-
 # Build on Stellar 
 
 Find the winners of the HackNYU 2020 Stellar track [here](https://hacknyu-2020.devpost.com/submissions/search?utf8=%E2%9C%93&prize_filter%5Bprizes%5D%5B%5D=35771). 
