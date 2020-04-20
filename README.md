@@ -2,28 +2,22 @@
 
 We recently sponsored a hackathon in New York! Find the winners of the HackNYU 2020 Stellar track [here](https://hacknyu-2020.devpost.com/submissions/search?utf8=%E2%9C%93&prize_filter%5Bprizes%5D%5B%5D=35771). 
 
-## Get Started Kit
+Have questions? Find [Tyler](https://keybase.io/tyvdh) or [Kolten](https://keybase.io/kolten) on Keybase. You can also join the [Stellar Keybase team](https://keybase.io/team/stellar.public) to bounce your ideas off of the community. 
 
-[**Stellar App Boilerplate**](https://github.com/tyvdh/hack-stellar) - Get up and running building Stellar apps faster than ⚡️ Usain Bolt ⚡️
-
-## Basic Explainers
+## Get Started
 
 [**Intro to Stellar**](https://stellar.org/learn/intro-to-stellar) - Need a refresher on what Stellar is and what it's for? Check out this quick explainer.
 
-[**The Power of Stellar**](https://stellar.org/learn/intro-to-stellar) - Here we explain a few powerful unique-to-Stellar financial features—asset issuance, the network’s distributed order books, and the path-payments system—that are great for any fintech project.
+[**Stellar Lumens**](https://stellar.org/lumens) - You'll no doubt discover lumens while building on Stellar and you might even win some at the end of the hackathon. This should help you wrap your head around what they are.
 
-[**Stellar Lumens**](https://stellar.org/lumens) - You'll no doubt discover lumens while building on Stellar and you might even win some at the end of the weekend. This should help you wrap your head around what they are.
-
-[**Stellar Overview Course**](https://www.lumenauts.com/courses/stellar-overview-course) - Lumenauts.com has put together a 30 minute video course covering the *basics* of many Stellar related topics. The course includes info about the network, the ledger, assets, anchors, the decentralized exchange, and more.
+[**Stellar App Boilerplate**](https://github.com/tyvdh/hack-stellar) - Get up and running building Stellar apps faster than ⚡️ Usain Bolt ⚡️
 
 ## Developer Resources
 
 [**Stellar Developer Portal**](https://www.stellar.org/developers/) - Quickest way to find documentation and other relevant resources.
 
-[**Horizon Reference Overview**](https://www.stellar.org/developers/reference/) - You'll be using the Horizon API a lot over the next 24 hours. Here's an overview of Horizon endpoints and how to use them.
+[**Horizon API Reference Overview**](https://www.stellar.org/developers/reference/) - You'll be using the Horizon API a lot over the next 24 hours. Here's an overview of Horizon endpoints and how to use them.
   - Tip: You'll be using [https://horizon-testnet.stellar.org/](https://horizon-testnet.stellar.org/) 
-
-[**Stellar Testnet Documentation**](https://www.stellar.org/developers/guides/concepts/test-net.html) - To avoid testing with real money, we of course recommend that you use the Stellar testnet. This guide will explain what the testnet is and some best practices.
 
 [**Stellar Laboratory**](https://www.stellar.org/laboratory/) - The Stellar Laboratory is a set of tools that enables people to try out and learn about the Stellar network. The laboratory can build transactions, sign them, and submit them to the network. It can also make requests to any of the Horizon endpoints.
 
