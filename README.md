@@ -25,8 +25,8 @@ Have questions? Find [Tyler](https://keybase.io/tyvdh) or [Kolten](https://keyba
 
 [**Create Stellar Token (JS)**](https://github.com/msfeldstein/create-stellar-token) - A script that allows you to quickly create a Stellar token on testnet.
 
-[**Stellar Expert**](https://stellar.expert/explorer/public) - Block explorer and analytics platform for Stellar Network. Find information about accounts you create, transaction you submit to the network, and more. 
+[**Create Stellar Token + Orderbook (Python)**](https://github.com/koltenb/stellar-asset-issuer-script) - A script that allows you to quickly create a Stellar token and a market for your token on testnet. 
 
-Stellar SDK's are also available in the following languages: [Go](https://github.com/stellar/go/releases/tag/horizonclient-v2.1.0), [Java](https://github.com/stellar/java-stellar-sdk/releases/tag/0.14.0), [Python](https://github.com/StellarCN/py-stellar-base/releases), [Qt](https://github.com/bnogalm/StellarQtSDK/releases), [.NET](https://github.com/elucidsoft/dotnet-stellar-sdk/releases), [iOS](https://github.com/Soneso/stellar-ios-mac-sdk/releases), [Scala](https://github.com/Synesso/scala-stellar-sdk/releases/tag/v0.11.0), and [Java](https://github.com/stellar/java-stellar-sdk/releases/tag/0.14.0).
+[**Stellar Expert**](https://stellar.expert/explorer/public) - Block explorer and analytics platform for Stellar Network. Find information about accounts you create, transaction you submit to the network, and more. 
 
 You can also check out [Awesome Stellar](https://github.com/koltenb/awesome-stellar): a curated list of Stellar applications, blog posts, educational resources, tools, and more.
