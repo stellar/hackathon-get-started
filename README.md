@@ -14,7 +14,7 @@ Have questions? Find [Tyler](https://keybase.io/tyvdh) or [Kolten](https://keyba
 
 ## Developer Resources
 
-[**Stellar Developer Portal**](https://www.stellar.org/developers/) - Quickest way to find documentation and other relevant resources.
+[**Stellar Documentation**](https://developers.stellar.org/docs/) - Quickest way to get started. 
 
 [**Horizon API Reference Overview**](https://www.stellar.org/developers/reference/) - You'll be using the Horizon API a lot over the next 24 hours. Here's an overview of Horizon endpoints and how to use them.
   - Tip: You'll be using [https://horizon-testnet.stellar.org/](https://horizon-testnet.stellar.org/) 
