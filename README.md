@@ -1,7 +1,5 @@
 # 🛠️ Build on Stellar 
 
-We recently sponsored a hackathon in New York! Find the winners of the HackNYU 2020 Stellar track [here](https://hacknyu-2020.devpost.com/submissions/search?utf8=%E2%9C%93&prize_filter%5Bprizes%5D%5B%5D=35771). 
-
 Have questions? Find [Tyler](https://keybase.io/tyvdh) or [Kolten](https://keybase.io/kolten) on Keybase. You can also join the [Stellar Keybase team](https://keybase.io/team/stellar.public) to bounce your ideas off of the community. 
 
 ## Get Started
@@ -14,11 +12,16 @@ Have questions? Find [Tyler](https://keybase.io/tyvdh) or [Kolten](https://keyba
 
 ## Developer Resources
 
+### Documentation 
+
 [**Stellar Documentation**](https://developers.stellar.org/docs/) - Quickest way to get started. 
 
 [**Horizon API Reference Overview**](https://www.stellar.org/developers/reference/) - You'll be using the Horizon API a lot over the next 24 hours. Here's an overview of Horizon endpoints and how to use them.
   - Tip: You'll be using [https://horizon-testnet.stellar.org/](https://horizon-testnet.stellar.org/) 
+  
+You can also check out [Awesome Stellar](https://github.com/koltenb/awesome-stellar): a curated list of Stellar applications, blog posts, educational resources, tools, and more. 
 
+### Tools
 [**Stellar Laboratory**](https://www.stellar.org/laboratory/) - The Stellar Laboratory is a set of tools that enables people to try out and learn about the Stellar network. The laboratory can build transactions, sign them, and submit them to the network. It can also make requests to any of the Horizon endpoints.
 
 [**JavaScript Stellar SDK**](https://github.com/stellar/js-stellar-sdk) - Here's the Github repo for the JS Stellar SDK. It contains some documentation and reference examples that should help you get started.
@@ -29,4 +32,9 @@ Have questions? Find [Tyler](https://keybase.io/tyvdh) or [Kolten](https://keyba
 
 [**Stellar Expert**](https://stellar.expert/explorer/public) - Block explorer and analytics platform for Stellar Network. Find information about accounts you create, transaction you submit to the network, and more. 
 
-You can also check out [Awesome Stellar](https://github.com/koltenb/awesome-stellar): a curated list of Stellar applications, blog posts, educational resources, tools, and more.
+## Events & Previous Hackathons 
+
+We recently sponsored a hackathon in New York! Find the winners of the HackNYU 2020 Stellar track [here](https://hacknyu-2020.devpost.com/submissions/search?utf8=%E2%9C%93&prize_filter%5Bprizes%5D%5B%5D=35771). 
+
+**Stellar Community Fund** - The Stellar Community Fund (SCF) gives the broader Stellar community the opportunity to vote on which projects they believe deserve XLM awards. Any project built on Stellar can apply and participate! **Every 3 months, 8 participants have the chance to split a pool of 3 Million Lumens.** [Find more info here.](https://www.stellar.org/community/community-fund)
+
