@@ -28,6 +28,8 @@ You can also check out [Awesome Stellar](https://github.com/koltenb/awesome-stel
 
 [**JavaScript Stellar SDK**](https://github.com/stellar/js-stellar-sdk) - Here's the Github repo for the JS Stellar SDK. It contains some documentation and reference examples that should help you get started.
 
+[**Python Stellar SDK**](https://github.com/StellarCN/py-stellar-base) - Here's the Github repo for the Python Stellar SDK. It contains some documentation and reference examples that should help you get started.
+
 [**Create Stellar Token (JS)**](https://github.com/msfeldstein/create-stellar-token) - A script that allows you to quickly create a Stellar token on testnet.
 
 [**Create Stellar Token + Orderbook (Python)**](https://github.com/koltenb/stellar-asset-issuer-script) - A script that allows you to quickly create a Stellar token and a market for your token on testnet. 
