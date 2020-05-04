@@ -24,17 +24,16 @@ You can also check out [Awesome Stellar](https://github.com/koltenb/awesome-stel
 ### Tools
 [**Stellar Laboratory**](https://www.stellar.org/laboratory/) - The Stellar Laboratory is a set of tools that enables people to try out and learn about the Stellar network. The laboratory can build transactions, sign them, and submit them to the network. It can also make requests to any of the Horizon endpoints.
 
+[**Stellar Expert**](https://stellar.expert/explorer/public) - Block explorer and analytics platform for Stellar Network. Find information about accounts you create, transaction you submit to the network, and more. 
+
 [**JavaScript Stellar SDK**](https://github.com/stellar/js-stellar-sdk) - Here's the Github repo for the JS Stellar SDK. It contains some documentation and reference examples that should help you get started.
 
 [**Create Stellar Token (JS)**](https://github.com/msfeldstein/create-stellar-token) - A script that allows you to quickly create a Stellar token on testnet.
 
 [**Create Stellar Token + Orderbook (Python)**](https://github.com/koltenb/stellar-asset-issuer-script) - A script that allows you to quickly create a Stellar token and a market for your token on testnet. 
 
-[**Stellar Expert**](https://stellar.expert/explorer/public) - Block explorer and analytics platform for Stellar Network. Find information about accounts you create, transaction you submit to the network, and more. 
-
-## Stellar Community Fund & Previous Hackathons 
+## Previous Hackathons & Stellar Community Fund
 
 We recently sponsored a hackathon in New York! Find the winners of the HackNYU 2020 Stellar track [here](https://hacknyu-2020.devpost.com/submissions/search?utf8=%E2%9C%93&prize_filter%5Bprizes%5D%5B%5D=35771). 
 
 **Stellar Community Fund** - The Stellar Community Fund (SCF) gives the broader Stellar community the opportunity to vote on which projects they believe deserve XLM awards. Any project built on Stellar can apply and participate! **Every 3 months, 8 participants have the chance to split a pool of 3 Million Lumens.** [Find more info here.](https://www.stellar.org/community/community-fund)
-
