@@ -32,7 +32,7 @@ You can also check out [Awesome Stellar](https://github.com/koltenb/awesome-stel
 
 [**Stellar Expert**](https://stellar.expert/explorer/public) - Block explorer and analytics platform for Stellar Network. Find information about accounts you create, transaction you submit to the network, and more. 
 
-## Events & Previous Hackathons 
+## Stellar Community Fund & Previous Hackathons 
 
 We recently sponsored a hackathon in New York! Find the winners of the HackNYU 2020 Stellar track [here](https://hacknyu-2020.devpost.com/submissions/search?utf8=%E2%9C%93&prize_filter%5Bprizes%5D%5B%5D=35771). 
 
