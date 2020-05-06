@@ -10,6 +10,8 @@ Have questions? Find [Tyler](https://keybase.io/tyvdh) or [Kolten](https://keyba
 
 [**Stellar App Boilerplate**](https://github.com/tyvdh/hack-stellar) - Get up and running building Stellar apps faster than ⚡️ Usain Bolt ⚡️
 
+[**Testnet USD Asset / Market**](https://stellar.expert/explorer/testnet/asset/USD-GDSWUOFTA4FBM53FVCF7LAU37BCA2H4DUSU2ZXDVKXSVLV7L5KCY3VVA?filter=orderbook) - A market for USD on testnet that allows you to quickly experiment with assets and the SDEX. 
+
 ## Developer Resources
 
 ### Documentation 
