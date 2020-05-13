@@ -1,5 +1,7 @@
 # 🛠️ Build on Stellar 
 
+📋 **Ongoing**: Gitcoin NYBW Hackathon (May 6 - 27) → https://gitcoin.co/issue/stellar/hackathon-get-started/1/4287
+
 Have questions? Find [Tyler](https://keybase.io/tyvdh) or [Kolten](https://keybase.io/kolten) on Keybase. You can also join the [Stellar Keybase team](https://keybase.io/team/stellar.public) to bounce your ideas off of the community. 
 
 ## Get Started
