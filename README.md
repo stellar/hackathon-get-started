@@ -38,8 +38,8 @@ You can also check out [Awesome Stellar](https://github.com/koltenb/awesome-stel
 
 ## Previous Hackathons & Stellar Community Fund
 
-Find the winners of the HackNYU 2020 Stellar track [here](https://hacknyu-2020.devpost.com/submissions/search?utf8=%E2%9C%93&prize_filter%5Bprizes%5D%5B%5D=35771). 
+Find the winners of the HackNYU 2020 Stellar prizes [here](https://hacknyu-2020.devpost.com/submissions/search?utf8=%E2%9C%93&prize_filter%5Bprizes%5D%5B%5D=35771). 
 
-Find the winners of the Gitcoin NYBW Hackathon [here](https://github.com/stellar/hackathon-get-started/issues/1).
+Find the winners of the Gitcoin NYBW Hackathon Stellar prizes [here](https://github.com/stellar/hackathon-get-started/issues/1).
 
 **Stellar Community Fund** - The Stellar Community Fund (SCF) gives the broader Stellar community the opportunity to vote on which projects they believe deserve XLM awards. Any project built on Stellar can apply and participate! **Every 3 months, 8 participants have the chance to split a pool of 3 Million Lumens.** [Find more info here.](https://www.stellar.org/community/community-fund)
