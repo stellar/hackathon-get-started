@@ -42,4 +42,4 @@ Find the winners of the HackNYU 2020 Stellar prizes [here](https://hacknyu-2020.
 
 Find the winners of the Gitcoin NYBW Hackathon Stellar prizes [here](https://github.com/stellar/hackathon-get-started/issues/1#issuecomment-635503405).
 
-**Stellar Community Fund** - The Stellar Community Fund (SCF) gives the broader Stellar community the opportunity to vote on which projects they believe deserve XLM awards. Any project built on Stellar can apply and participate! **Every 3 months, 8 participants have the chance to split a pool of 3 Million Lumens.** [Find more info here.](https://www.stellar.org/community/community-fund)
+**Stellar Community Fund** - The Stellar Community Fund gives people all over the world a chance to kickstart their Stellar-based projects and connect to the thriving Stellar community. You can road test ideas, get real feedback from developers and potential users, and win funding to allow you to pursue your vision. It's a rare opportunity to win rewards — no strings attached — for dreaming big. [Find more info here.](https://communityfund.stellar.org/)
