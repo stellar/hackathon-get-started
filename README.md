@@ -18,7 +18,7 @@ Have questions? Find [Tyler](https://keybase.io/tyvdh) or [Kolten](https://keyba
 
 [**Stellar Documentation**](https://developers.stellar.org/docs/) - Quickest way to get started. 
 
-[**Horizon API Reference Overview**](https://www.stellar.org/developers/reference/) - You'll be using the Horizon API a lot over the next 24 hours. Here's an overview of Horizon endpoints and how to use them.
+[**Horizon API Reference Overview**](https://www.stellar.org/developers/reference/) - You'll be using the Horizon API a lot. Here's an overview of Horizon endpoints and how to use them.
   - Tip: You'll be using [https://horizon-testnet.stellar.org/](https://horizon-testnet.stellar.org/) 
   
 You can also check out [Awesome Stellar](https://github.com/koltenb/awesome-stellar): a curated list of Stellar applications, blog posts, educational resources, tools, and more. 
