@@ -1,6 +1,6 @@
 # 🛠️ Build on Stellar 
 
-Have questions? Find [Tyler](https://keybase.io/tyvdh) or [Kolten](https://keybase.io/kolten) on Keybase. You can also join the [Stellar Keybase team](https://keybase.io/team/stellar.public) to bounce your ideas off of the community. 
+Have questions? Find [Tyler](https://keybase.io/tyvdh) on Keybase. You can also join the [Stellar Keybase team](https://keybase.io/team/stellar.public) to bounce your ideas off of the community. 
 
 ## Get Started
 
@@ -19,7 +19,7 @@ Have questions? Find [Tyler](https://keybase.io/tyvdh) or [Kolten](https://keyba
 [**Horizon API Reference Overview**](https://developers.stellar.org/api) - You'll be using the Horizon API a lot. Here's an overview of Horizon endpoints and how to use them.
   - Tip: You'll be using [https://horizon-testnet.stellar.org/](https://horizon-testnet.stellar.org/) 
   
-You can also check out [Awesome Stellar](https://github.com/koltenb/awesome-stellar): a curated list of Stellar applications, blog posts, educational resources, tools, and more. 
+You can also check out [Awesome Stellar](https://github.com/stellar/awesome-stellar): a curated list of Stellar applications, blog posts, educational resources, tools, and more. 
 
 ### Tools
 [**Stellar Laboratory**](https://www.stellar.org/laboratory/) - The Stellar Laboratory is a set of tools that enables people to try out and learn about the Stellar network. The laboratory can build transactions, sign them, and submit them to the network. It can also make requests to any of the Horizon endpoints.
