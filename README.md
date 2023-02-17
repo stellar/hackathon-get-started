@@ -32,7 +32,7 @@ You can also check out [Awesome Stellar](https://github.com/stellar/awesome-stel
 
 [**Create Stellar Token (JS)**](https://github.com/msfeldstein/create-stellar-token) - A script that allows you to quickly create a Stellar token on testnet.
 
-[**Create Stellar Token + Orderbook (Python)**](https://github.com/koltenb/stellar-asset-issuer-script) - A script that allows you to quickly create a Stellar token and a market for your token on testnet. 
+[**Create Stellar Token + Orderbook (Python)**](https://github.com/stellar/stellar-asset-issuer-script) - A script that allows you to quickly create a Stellar token and a market for your token on testnet. 
 
 ## Previous Hackathons & Stellar Community Fund
 
